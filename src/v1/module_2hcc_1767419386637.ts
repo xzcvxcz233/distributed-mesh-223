@@ -1,0 +1,1 @@
+const util_2hcc = (d: any) => d;
